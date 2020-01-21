@@ -26,4 +26,5 @@ A passionate, energetic, and creative double degree student at the University of
 
 - Used Visual Basic and other libraries to created an exact replica of the game Who Wants to Be a Millionarie
 
+![millionaire](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi1jpDHw5XnAhWOZ80KHc4XD2QQjRx6BAgBEAQ&url=http%3A%2F%2Fcyberspaceandtime.com%2FEttK-X-pAgk.video%2Brelated&psig=AOvVaw2B4DILKmyoct1YhfetWgh4&ust=1579724725429935)
 

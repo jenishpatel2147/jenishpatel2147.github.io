@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jenish Patel
 
 You can use the [editor on GitHub](https://github.com/jenishpatel2147/jenishpatel2147.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

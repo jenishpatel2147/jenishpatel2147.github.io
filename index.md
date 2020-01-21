@@ -2,7 +2,7 @@
 
 A passionate, energetic, and creative double degree student at the University of Waterloo and Wilfrid Laurier University studying Computer Science and Business Administration looking for summer 2020 internships.
 
-##Projects
+## Projects
 
 ### NBA Finals Tweet Analytics
 
@@ -16,10 +16,16 @@ A passionate, energetic, and creative double degree student at the University of
 - Designed an intuitive user interface leveraging HTML, JavaScript and React that allowed for the sub-reddits data to be displayed   onto a   locally hosted website
 
 
+
+
+
 ### RoboRun - Endless Runner Game
 
 - A Unity based 2D mobile game developed using C\# that was released onto the Google Play Store
 - An endless runner game that outputs a score at the end of the game, calculated using various game components
 
+### Who wants to be a Millionarie
+
+- Used Visual Basic and other libraries to created an exact replica of the game Who Wants to Be a Millionarie
 
 

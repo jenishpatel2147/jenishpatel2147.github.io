@@ -1,35 +1,25 @@
-## Jenish Patel
+## About Me
 
-# SsASa
+A passionate, energetic, and creative double degree student at the University of Waterloo and Wilfrid Laurier University studying Computer Science and Business Administration looking for summer 2020 internships.
 
-### Markdown
+##Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### NBA Finals Tweet Analytics
 
-```markdown
-Syntax highlighted code block
+- Used Python and Twitter API to collect live tweets from the NBA Finals, based on specific set of words searched
+- Utilizing the tweepy library, the tweets get generated onto to a text file and analyzed based on various twitter categories
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### University Reddit Posts Collector
 
-1. Numbered
-2. List
+- Collected the trending reddit posts from various university sub-reddits with the use of Reddit API, and creating the back end server that   collects data using Python and Flask.
+- Designed an intuitive user interface leveraging HTML, JavaScript and React that allowed for the sub-reddits data to be displayed   onto a   locally hosted website
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### RoboRun - Endless Runner Game
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- A Unity based 2D mobile game developed using C\# that was released onto the Google Play Store
+- An endless runner game that outputs a score at the end of the game, calculated using various game components
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jenishpatel2147/jenishpatel2147.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

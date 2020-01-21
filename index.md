@@ -17,8 +17,6 @@ A passionate, energetic, and creative double degree student at the University of
 
 
 
-
-
 ### RoboRun - Endless Runner Game
 
 - A Unity based 2D mobile game developed using C\# that was released onto the Google Play Store

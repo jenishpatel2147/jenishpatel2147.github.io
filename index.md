@@ -15,6 +15,7 @@ A passionate, energetic, and creative double degree student at the University of
 - Collected the trending reddit posts from various university sub-reddits with the use of Reddit API, and creating the back end server that   collects data using Python and Flask.
 - Designed an intuitive user interface leveraging HTML, JavaScript and React that allowed for the sub-reddits data to be displayed   onto a   locally hosted website
 
+![RedditPost](https://user-images.githubusercontent.com/47545545/72894725-f5f8ef00-3ce9-11ea-986a-378ff5b6c13c.png)
 
 
 ### RoboRun - Endless Runner Game
@@ -26,4 +27,4 @@ A passionate, energetic, and creative double degree student at the University of
 
 - Used Visual Basic and other libraries to created an exact replica of the game Who Wants to Be a Millionarie
 
-![RedditPost](https://user-images.githubusercontent.com/47545545/72894725-f5f8ef00-3ce9-11ea-986a-378ff5b6c13c.png)
+![Millioniare](https://user-images.githubusercontent.com/47545545/72894959-656ede80-3cea-11ea-9c56-e298e3f0fc89.jpg)

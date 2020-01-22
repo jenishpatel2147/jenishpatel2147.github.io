@@ -23,6 +23,8 @@ A passionate, energetic, and creative double degree student at the University of
 - A Unity based 2D mobile game developed using C\# that was released onto the Google Play Store
 - An endless runner game that outputs a score at the end of the game, calculated using various game components
 
+![Untitled](https://user-images.githubusercontent.com/47545545/72895501-7f5cf100-3ceb-11ea-88d7-bbf85ecd0c0b.png)
+
 ### Who wants to be a Millionarie
 
 - Used Visual Basic and other libraries to created an exact replica of the game Who Wants to Be a Millionarie
